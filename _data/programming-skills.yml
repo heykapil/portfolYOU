@@ -1,0 +1,19 @@
+- name: PHP
+  percentage: 99
+  color:
+
+- name: Typescript
+  percentage: 99
+  color:
+
+- name: Javascript (ES*)
+  percentage: 90
+  color:
+    
+- name: C++ 
+  percentage: 90
+  color:
+    
+- name: Python 
+  percentage: 85
+  color:
